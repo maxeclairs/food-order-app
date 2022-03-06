@@ -1,0 +1,11 @@
+.available-meals{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+.available-meals ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

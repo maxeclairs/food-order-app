@@ -1,0 +1,19 @@
+.meal-item {
+    padding: 0.8rem;
+    border-bottom: 1px solid rgb(255, 143, 143);
+    /* border-radius: 5px; */
+    margin: 0.5rem;
+    /* cursor: pointer; */
+    display: flex;
+    justify-content: space-between;
+}
+.description {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: rgb(139, 0, 252);
+}
+
+.price{
+    color:rgb(39, 2, 2);
+    font-weight: bold;
+}

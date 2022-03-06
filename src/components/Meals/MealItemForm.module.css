@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.form button{
+    background-color: brown;
+    padding: 0.3rem 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    cursor: pointer; 
+}
+.form button:hover,
+.form button:active {
+    background: #d36300;
+    box-shadow: 2px 4px 4px rgb(160, 69, 0);
+}
