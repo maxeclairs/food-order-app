@@ -1,4 +1,4 @@
-# Front end of sample Food Order app created with ReacJS
+# Front end of sample Food Order app created with ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
